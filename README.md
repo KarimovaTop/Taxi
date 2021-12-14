@@ -10,3 +10,9 @@
 
 ## Среда программирования:
 Microsoft Visual Studio Чтобы запустить программу, нажмите зеленую стрелку (кнопка запуска) на главной панели инструментов Visual Studio либо нажмите клавиши F5 или CTRL+F5 для запуска программы.
+
+![image](https://user-images.githubusercontent.com/90563473/146011628-4dce2dc0-6539-4389-bbf7-9b05b504e6ca.png)
+
+![image](https://user-images.githubusercontent.com/90563473/146012099-8474eddb-44ab-4198-b673-55ab45abb069.png)
+
+![image](https://user-images.githubusercontent.com/90563473/146012344-ef5e33e7-8d16-4246-9aa0-1645020bfc99.png)
